@@ -1,0 +1,30 @@
+.products{
+    width: 100%;
+    color: aliceblue;
+   
+
+}
+.card-products{
+width: 200px;
+height: 340px;
+background-color: rgb(51, 82, 218);
+color: black;
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: 10px 10px 10px rgb(11, 156, 182);
+border-radius: 20px;
+}
+.card-bottom{
+    color: aliceblue;
+}
+
+.card_title {
+    color: azure;
+}
+.card_image >img{
+    width: 180px;
+    height: 200px;
+    
+
+}
